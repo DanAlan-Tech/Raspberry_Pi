@@ -1,4 +1,4 @@
-# 🍓 Raspberry Pi Projects
+#  Raspberry Pi Projects
 
 Welcome to my personal collection of Raspberry Pi projects! This repository serves as a centralized hub for all the hardware tinkering, automation scripts, media servers, and IoT experiments I’ve built using various Raspberry Pi models.
 
